@@ -11,7 +11,9 @@ Socil links:
 Languages:
 
 ![Pyton](https://img.shields.io/badge/Python-FFD43B?style=for-the-badge&logo=python&logoColor=blue)
+
 Java
+
 Kotlin
 
 For code i use:
