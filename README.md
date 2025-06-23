@@ -1,19 +1,20 @@
-## RU
-Привет всем! Я Kr1sper_
+# Hello, i'm Kr1sper_
 
-Я владелец и тех.админ прекрасного Minecraft проекта CME World.
+CME Wordl owner|teh.admin
 
-Ссылки:
+Socil links:
 
 ![DISCORD](https://img.shields.io/badge/Discord-5865F2?style=for-the-badge&logo=discord&logoColor=white)
 ![]()
 ![]()
 
-Изучаю:
+Languages:
 
 ![Pyton](https://img.shields.io/badge/Python-FFD43B?style=for-the-badge&logo=python&logoColor=blue)
+Java
+Kotlin
 
-Для работы использую:
+For code i use:
 
 ![VSCODE](https://img.shields.io/badge/VSCode-0078D4?style=for-the-badge&logo=visual%20studio%20code&logoColor=white)
 
