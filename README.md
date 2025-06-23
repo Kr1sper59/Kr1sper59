@@ -4,7 +4,7 @@ CME Wordl owner|teh.admin
 
 Socil links:
 
-![DISCORD](https://img.shields.io/badge/Discord-5865F2?style=for-the-badge&logo=discord&logoColor=white)
+[![DISCORD](https://img.shields.io/badge/Discord-5865F2?style=for-the-badge&logo=discord&logoColor=white)](https://dsc.gg/cme-world)
 ![]()
 ![]()
 
