@@ -1,6 +1,6 @@
 # Hello, i'm Kr1sper_
 
-CME Wordl owner|teh.admin
+CME World owner|teh.admin
 
 Socil links:
 
