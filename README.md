@@ -24,4 +24,6 @@ CME World owner|teh.admin
 ### 🖥️OS🖥️
 ![Arch](https://img.shields.io/badge/Arch%20Linux-1793D1?logo=arch-linux&logoColor=fff&style=for-the-badge) 
 
-![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=Kr1sper59&show_icons=true&theme=tokyonight)
+![Kr1sper_'s GitHub stats](https://github-readme-stats.vercel.app/api?username=Kr1sper59&show_icons=true&theme=tokyonight)
+
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Kr1sper59&layout=compact&theme=tokyonight)](https://github.com/anuraghazra/github-readme-stats)
