@@ -18,4 +18,3 @@ CME World owner|teh.admin
 ## Stats
 ![Kr1sper_'s GitHub stats](https://github-readme-stats.vercel.app/api?username=Kr1sper59&theme=tokyonight&show_icons=true&hide_border=true)
 
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Kr1sper59&layout=compact&theme=tokyonight&show_icons=true&hide_border=true)
