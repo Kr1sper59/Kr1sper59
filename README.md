@@ -17,4 +17,4 @@ CME World owner|teh.admin
 [![Spotify]( 	https://img.shields.io/badge/Spotify-1ED760?&style=for-the-badge&logo=spotify&logoColor=white)](https://open.spotify.com/user/31pfpbeki7xbvochj72swz75dki4)
 ## Stats
 ![Kr1sper_'s GitHub stats](https://github-readme-stats.vercel.app/api?username=Kr1sper59&theme=tokyonight&show_icons=true&hide_border=true)
-
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Kr1sper59&layout=compact&theme=tokyonight&show_icons=true&hide_border=true)
