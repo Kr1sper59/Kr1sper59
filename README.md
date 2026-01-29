@@ -17,8 +17,8 @@ CME World owner|teh.admin
 [![Spotify]( 	https://img.shields.io/badge/Spotify-1ED760?&style=for-the-badge&logo=spotify&logoColor=white)](https://open.spotify.com/user/31pfpbeki7xbvochj72swz75dki4)
 ## Stats
 <a href="https://github.com/Kr1sper59">  
-  <img align="left" src="https://github-readme-stats.vercel.app/api?username=Kr1sper59&show_icons=true&theme=tokyonight&hide=issues" alt="l-Log-l" />  
+  <img align="left" src="https://github-readme-stats.vercel.app/api?username=Kr1sper59&show_icons=true&theme=tokyonight&hide=issues" alt="" />  
 </a>  
 <a href="https://github.com/Kr1sper59">  
-  <img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=Kr1sper59&show_icons=true&theme=tokyonight&layout=compact" alt="l-Log-l" />  
+  <img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=Kr1sper59&show_icons=true&theme=tokyonight&layout=compact" alt="" />  
 </a> 
