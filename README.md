@@ -16,9 +16,9 @@ CME World owner|teh.admin
 [![Steam](https://img.shields.io/badge/Steam-000000?style=for-the-badge&logo=steam&logoColor=white)](https://steamcommunity.com/id/KR1sper_/)
 [![Spotify]( 	https://img.shields.io/badge/Spotify-1ED760?&style=for-the-badge&logo=spotify&logoColor=white)](https://open.spotify.com/user/31pfpbeki7xbvochj72swz75dki4)
 ## Stats
-<a href="https://github.com/l-Log-l">  
+<a href="https://github.com/Kr1sper59">  
   <img align="left" src="https://github-readme-stats.vercel.app/api?username=Kr1sper59&show_icons=true&theme=tokyonight&hide=issues" alt="l-Log-l" />  
 </a>  
-<a href="https://github.com/l-Log-l">  
+<a href="https://github.com/Kr1sper59">  
   <img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=Kr1sper59&show_icons=true&theme=tokyonight&layout=compact" alt="l-Log-l" />  
 </a> 
