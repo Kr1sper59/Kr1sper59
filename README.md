@@ -18,5 +18,7 @@ CME World owner|teh.admin
 ## Stats
 <p align="center">
   <img src="./assets/stats.svg" height="180" />
+</p>
+<p align="center">
   <img src="./assets/top-langs.svg" height="180" />
 </p>
