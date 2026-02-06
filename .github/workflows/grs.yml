@@ -9,19 +9,35 @@ jobs:
   build:
     runs-on: ubuntu-latest
     permissions:
-      contents: write   # ← ВОТ ЭТО КЛЮЧЕВО
+      contents: write
 
     steps:
       - uses: actions/checkout@v4
 
-      - run: mkdir -p assets   # ← желательно, чтобы папка точно была
+      - run: mkdir -p assets
 
       - name: Generate stats card
         uses: readme-tools/github-readme-stats-action@v1
         with:
           card: stats
-          options: username=${{ github.repository_owner }}&show_icons=true
+          options: >
+            username=${{ github.repository_owner }}
+            &show_icons=true
+            &include_all_commits=true
+            &theme=tokyonight
           path: assets/stats.svg
+          token: ${{ secrets.GITHUB_TOKEN }}
+
+      - name: Generate top languages card
+        uses: readme-tools/github-readme-stats-action@v1
+        with:
+          card: top-langs
+          options: >
+            username=${{ github.repository_owner }}
+            &layout=compact
+            &langs_count=8
+            &theme=tokyonight
+          path: assets/top-langs.svg
           token: ${{ secrets.GITHUB_TOKEN }}
 
       - name: Commit cards
