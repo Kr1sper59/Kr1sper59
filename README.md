@@ -90,10 +90,5 @@ An open-source Paper plugin for creating custom potions for gameplay scenarios. 
 ---
 
 ## 📊 Stats
-
-<p align="center">
-  <img src="./assets/stats.svg" height="180" />
-</p>
-<p align="center">
-  <img src="./assets/top-langs.svg" height="180" />
-</p>
+[![GitHub Stats](https://github-stats-extended.vercel.app/api?username=Kr1sper59&show_icons=true&include_all_commits=true&theme=dark_github)](https://github-stats-extended.vercel.app/api?username=Kr1sper59&show_icons=true&include_all_commits=true&theme=dark_github)
+[![GitHub Stats](https://github-stats-extended.vercel.app/api/top-langs?username=Kr1sper59&layout=compact&langs_count=6&hide_values=true&theme=dark_github)](https://github-stats-extended.vercel.app/api/top-langs?username=Kr1sper59&layout=compact&langs_count=6&hide_values=true&theme=dark_github)
